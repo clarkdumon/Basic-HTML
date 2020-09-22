@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans');
+
+html, body {
+height: 100%;
+margin: 0;
+font-family: 'Open Sans',sans-serif;
+text-align: center;
+line-height: 180%;
+}
+
